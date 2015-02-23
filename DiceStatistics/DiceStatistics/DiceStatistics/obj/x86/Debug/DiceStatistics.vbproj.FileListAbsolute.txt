@@ -1,0 +1,14 @@
+O:\B100\Lectures\DiceStatistics\DiceStatistics\bin\Debug\DiceStatistics.exe
+O:\B100\Lectures\DiceStatistics\DiceStatistics\bin\Debug\DiceStatistics.pdb
+O:\B100\Lectures\DiceStatistics\DiceStatistics\bin\Debug\DiceStatistics.xml
+O:\B100\Lectures\DiceStatistics\DiceStatistics\obj\x86\Debug\ResolveAssemblyReference.cache
+O:\B100\Lectures\DiceStatistics\DiceStatistics\obj\x86\Debug\WindowsApplication1.DiceStatistics.resources
+O:\B100\Lectures\DiceStatistics\DiceStatistics\obj\x86\Debug\WindowsApplication1.Resources.resources
+O:\B100\Lectures\DiceStatistics\DiceStatistics\obj\x86\Debug\GenerateResource.read.1.tlog
+O:\B100\Lectures\DiceStatistics\DiceStatistics\obj\x86\Debug\GenerateResource.write.1.tlog
+O:\B100\Lectures\DiceStatistics\DiceStatistics\obj\x86\Debug\DiceStatistics.exe
+O:\B100\Lectures\DiceStatistics\DiceStatistics\obj\x86\Debug\DiceStatistics.xml
+O:\B100\Lectures\DiceStatistics\DiceStatistics\obj\x86\Debug\DiceStatistics.pdb
+C:\Users\Kyle\Downloads\DiceStatistics\DiceStatistics\DiceStatistics\obj\x86\Debug\DiceStatistics.exe
+C:\Users\Kyle\Downloads\DiceStatistics\DiceStatistics\DiceStatistics\obj\x86\Debug\DiceStatistics.xml
+C:\Users\Kyle\Downloads\DiceStatistics\DiceStatistics\DiceStatistics\obj\x86\Debug\DiceStatistics.pdb

@@ -1,0 +1,22 @@
+c:\users\kyle\documents\visual studio 2010\Projects\WageCalculator\WageCalculator\bin\Debug\WageCalculator.exe
+c:\users\kyle\documents\visual studio 2010\Projects\WageCalculator\WageCalculator\bin\Debug\WageCalculator.pdb
+c:\users\kyle\documents\visual studio 2010\Projects\WageCalculator\WageCalculator\bin\Debug\WageCalculator.xml
+c:\users\kyle\documents\visual studio 2010\Projects\WageCalculator\WageCalculator\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\kyle\documents\visual studio 2010\Projects\WageCalculator\WageCalculator\obj\x86\Debug\WageCalculator.Form1.resources
+c:\users\kyle\documents\visual studio 2010\Projects\WageCalculator\WageCalculator\obj\x86\Debug\WageCalculator.Resources.resources
+c:\users\kyle\documents\visual studio 2010\Projects\WageCalculator\WageCalculator\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\kyle\documents\visual studio 2010\Projects\WageCalculator\WageCalculator\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\kyle\documents\visual studio 2010\Projects\WageCalculator\WageCalculator\obj\x86\Debug\WageCalculator.exe
+c:\users\kyle\documents\visual studio 2010\Projects\WageCalculator\WageCalculator\obj\x86\Debug\WageCalculator.xml
+c:\users\kyle\documents\visual studio 2010\Projects\WageCalculator\WageCalculator\obj\x86\Debug\WageCalculator.pdb
+H:\WageCalculator\WageCalculator\obj\x86\Debug\WageCalculator.exe
+H:\WageCalculator\WageCalculator\obj\x86\Debug\WageCalculator.xml
+H:\WageCalculator\WageCalculator\obj\x86\Debug\WageCalculator.pdb
+H:\WageCalculator\WageCalculator\bin\Debug\WageCalculator.exe
+H:\WageCalculator\WageCalculator\bin\Debug\WageCalculator.pdb
+H:\WageCalculator\WageCalculator\bin\Debug\WageCalculator.xml
+H:\WageCalculator\WageCalculator\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\WageCalculator\WageCalculator\obj\x86\Debug\WageCalculator.Form1.resources
+H:\WageCalculator\WageCalculator\obj\x86\Debug\WageCalculator.Resources.resources
+H:\WageCalculator\WageCalculator\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\WageCalculator\WageCalculator\obj\x86\Debug\GenerateResource.write.1.tlog

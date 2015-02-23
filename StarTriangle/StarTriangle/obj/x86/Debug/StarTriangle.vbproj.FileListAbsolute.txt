@@ -1,0 +1,10 @@
+c:\users\kyle\documents\visual studio 2010\Projects\StarTriangle\StarTriangle\bin\Debug\StarTriangle.exe
+c:\users\kyle\documents\visual studio 2010\Projects\StarTriangle\StarTriangle\bin\Debug\StarTriangle.pdb
+c:\users\kyle\documents\visual studio 2010\Projects\StarTriangle\StarTriangle\bin\Debug\StarTriangle.xml
+c:\users\kyle\documents\visual studio 2010\Projects\StarTriangle\StarTriangle\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\kyle\documents\visual studio 2010\Projects\StarTriangle\StarTriangle\obj\x86\Debug\StarTriangle.Resources.resources
+c:\users\kyle\documents\visual studio 2010\Projects\StarTriangle\StarTriangle\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\kyle\documents\visual studio 2010\Projects\StarTriangle\StarTriangle\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\kyle\documents\visual studio 2010\Projects\StarTriangle\StarTriangle\obj\x86\Debug\StarTriangle.exe
+c:\users\kyle\documents\visual studio 2010\Projects\StarTriangle\StarTriangle\obj\x86\Debug\StarTriangle.xml
+c:\users\kyle\documents\visual studio 2010\Projects\StarTriangle\StarTriangle\obj\x86\Debug\StarTriangle.pdb

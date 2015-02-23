@@ -1,0 +1,10 @@
+O:\B100\Lab5\DiscountCalculator\DiscountCalculator\bin\Debug\DiscountCalculator.exe
+O:\B100\Lab5\DiscountCalculator\DiscountCalculator\bin\Debug\DiscountCalculator.pdb
+O:\B100\Lab5\DiscountCalculator\DiscountCalculator\bin\Debug\DiscountCalculator.xml
+O:\B100\Lab5\DiscountCalculator\DiscountCalculator\obj\x86\Debug\ResolveAssemblyReference.cache
+O:\B100\Lab5\DiscountCalculator\DiscountCalculator\obj\x86\Debug\ConsoleApplication1.Resources.resources
+O:\B100\Lab5\DiscountCalculator\DiscountCalculator\obj\x86\Debug\GenerateResource.read.1.tlog
+O:\B100\Lab5\DiscountCalculator\DiscountCalculator\obj\x86\Debug\GenerateResource.write.1.tlog
+O:\B100\Lab5\DiscountCalculator\DiscountCalculator\obj\x86\Debug\DiscountCalculator.exe
+O:\B100\Lab5\DiscountCalculator\DiscountCalculator\obj\x86\Debug\DiscountCalculator.xml
+O:\B100\Lab5\DiscountCalculator\DiscountCalculator\obj\x86\Debug\DiscountCalculator.pdb

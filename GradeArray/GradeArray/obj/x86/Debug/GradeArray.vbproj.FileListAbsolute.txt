@@ -1,0 +1,40 @@
+c:\users\kyle\documents\visual studio 2010\Projects\GradeArray\GradeArray\bin\Debug\GradeArray.exe
+c:\users\kyle\documents\visual studio 2010\Projects\GradeArray\GradeArray\bin\Debug\GradeArray.pdb
+c:\users\kyle\documents\visual studio 2010\Projects\GradeArray\GradeArray\bin\Debug\GradeArray.xml
+c:\users\kyle\documents\visual studio 2010\Projects\GradeArray\GradeArray\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\kyle\documents\visual studio 2010\Projects\GradeArray\GradeArray\obj\x86\Debug\GradeArray.Resources.resources
+c:\users\kyle\documents\visual studio 2010\Projects\GradeArray\GradeArray\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\kyle\documents\visual studio 2010\Projects\GradeArray\GradeArray\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\kyle\documents\visual studio 2010\Projects\GradeArray\GradeArray\obj\x86\Debug\GradeArray.exe
+c:\users\kyle\documents\visual studio 2010\Projects\GradeArray\GradeArray\obj\x86\Debug\GradeArray.xml
+c:\users\kyle\documents\visual studio 2010\Projects\GradeArray\GradeArray\obj\x86\Debug\GradeArray.pdb
+J:\GradeArray\GradeArray\obj\x86\Debug\GradeArray.exe
+J:\GradeArray\GradeArray\obj\x86\Debug\GradeArray.xml
+J:\GradeArray\GradeArray\obj\x86\Debug\GradeArray.pdb
+J:\GradeArray\GradeArray\bin\Debug\GradeArray.exe
+J:\GradeArray\GradeArray\bin\Debug\GradeArray.pdb
+J:\GradeArray\GradeArray\bin\Debug\GradeArray.xml
+J:\GradeArray\GradeArray\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\GradeArray\GradeArray\obj\x86\Debug\GradeArray.Resources.resources
+J:\GradeArray\GradeArray\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\GradeArray\GradeArray\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\GradeArray\GradeArray\obj\x86\Debug\GradeArray.exe
+H:\GradeArray\GradeArray\obj\x86\Debug\GradeArray.xml
+H:\GradeArray\GradeArray\obj\x86\Debug\GradeArray.pdb
+H:\GradeArray\GradeArray\bin\Debug\GradeArray.exe
+H:\GradeArray\GradeArray\bin\Debug\GradeArray.pdb
+H:\GradeArray\GradeArray\bin\Debug\GradeArray.xml
+H:\GradeArray\GradeArray\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\GradeArray\GradeArray\obj\x86\Debug\GradeArray.Resources.resources
+H:\GradeArray\GradeArray\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\GradeArray\GradeArray\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Kyle\Downloads\GradeArray\GradeArray\obj\x86\Debug\GradeArray.exe
+C:\Users\Kyle\Downloads\GradeArray\GradeArray\obj\x86\Debug\GradeArray.xml
+C:\Users\Kyle\Downloads\GradeArray\GradeArray\obj\x86\Debug\GradeArray.pdb
+C:\Users\Kyle\Downloads\GradeArray\GradeArray\bin\Debug\GradeArray.exe
+C:\Users\Kyle\Downloads\GradeArray\GradeArray\bin\Debug\GradeArray.pdb
+C:\Users\Kyle\Downloads\GradeArray\GradeArray\bin\Debug\GradeArray.xml
+C:\Users\Kyle\Downloads\GradeArray\GradeArray\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Kyle\Downloads\GradeArray\GradeArray\obj\x86\Debug\GradeArray.Resources.resources
+C:\Users\Kyle\Downloads\GradeArray\GradeArray\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Kyle\Downloads\GradeArray\GradeArray\obj\x86\Debug\GenerateResource.write.1.tlog

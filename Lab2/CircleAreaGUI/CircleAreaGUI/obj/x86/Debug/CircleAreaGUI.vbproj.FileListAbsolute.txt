@@ -1,0 +1,11 @@
+O:\B100\Lab2\CircleAreaGUI\CircleAreaGUI\bin\Debug\CircleAreaGUI.exe
+O:\B100\Lab2\CircleAreaGUI\CircleAreaGUI\bin\Debug\CircleAreaGUI.pdb
+O:\B100\Lab2\CircleAreaGUI\CircleAreaGUI\bin\Debug\CircleAreaGUI.xml
+O:\B100\Lab2\CircleAreaGUI\CircleAreaGUI\obj\x86\Debug\ResolveAssemblyReference.cache
+O:\B100\Lab2\CircleAreaGUI\CircleAreaGUI\obj\x86\Debug\CircleAreaGUI.Form1.resources
+O:\B100\Lab2\CircleAreaGUI\CircleAreaGUI\obj\x86\Debug\CircleAreaGUI.Resources.resources
+O:\B100\Lab2\CircleAreaGUI\CircleAreaGUI\obj\x86\Debug\GenerateResource.read.1.tlog
+O:\B100\Lab2\CircleAreaGUI\CircleAreaGUI\obj\x86\Debug\GenerateResource.write.1.tlog
+O:\B100\Lab2\CircleAreaGUI\CircleAreaGUI\obj\x86\Debug\CircleAreaGUI.exe
+O:\B100\Lab2\CircleAreaGUI\CircleAreaGUI\obj\x86\Debug\CircleAreaGUI.xml
+O:\B100\Lab2\CircleAreaGUI\CircleAreaGUI\obj\x86\Debug\CircleAreaGUI.pdb

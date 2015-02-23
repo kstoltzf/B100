@@ -1,0 +1,25 @@
+O:\B100\Homework\ClassAverage\ClassAverage\bin\Debug\ClassAverage.exe
+O:\B100\Homework\ClassAverage\ClassAverage\bin\Debug\ClassAverage.pdb
+O:\B100\Homework\ClassAverage\ClassAverage\bin\Debug\ClassAverage.xml
+O:\B100\Homework\ClassAverage\ClassAverage\obj\x86\Debug\ResolveAssemblyReference.cache
+O:\B100\Homework\ClassAverage\ClassAverage\obj\x86\Debug\WindowsApplication1.Resources.resources
+O:\B100\Homework\ClassAverage\ClassAverage\obj\x86\Debug\GenerateResource.read.1.tlog
+O:\B100\Homework\ClassAverage\ClassAverage\obj\x86\Debug\GenerateResource.write.1.tlog
+O:\B100\Homework\ClassAverage\ClassAverage\obj\x86\Debug\ClassAverage.exe
+O:\B100\Homework\ClassAverage\ClassAverage\obj\x86\Debug\ClassAverage.xml
+O:\B100\Homework\ClassAverage\ClassAverage\obj\x86\Debug\ClassAverage.pdb
+O:\B100\Homework\ClassAverage\ClassAverage\obj\x86\Debug\WindowsApplication1.ClassAverage.resources
+J:\ClassAverage\ClassAverage\ClassAverage\obj\x86\Debug\ClassAverage.exe
+J:\ClassAverage\ClassAverage\ClassAverage\obj\x86\Debug\ClassAverage.xml
+J:\ClassAverage\ClassAverage\ClassAverage\obj\x86\Debug\ClassAverage.pdb
+J:\ClassAverage\ClassAverage\ClassAverage\bin\Debug\ClassAverage.exe
+J:\ClassAverage\ClassAverage\ClassAverage\bin\Debug\ClassAverage.pdb
+J:\ClassAverage\ClassAverage\ClassAverage\bin\Debug\ClassAverage.xml
+J:\ClassAverage\ClassAverage\ClassAverage\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\ClassAverage\ClassAverage\ClassAverage\obj\x86\Debug\WindowsApplication1.ClassAverage.resources
+J:\ClassAverage\ClassAverage\ClassAverage\obj\x86\Debug\WindowsApplication1.Resources.resources
+J:\ClassAverage\ClassAverage\ClassAverage\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\ClassAverage\ClassAverage\ClassAverage\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Kyle\Documents\Visual Studio 2010\Projects\ClassAverage\ClassAverage\ClassAverage\obj\x86\Debug\ClassAverage.exe
+C:\Users\Kyle\Documents\Visual Studio 2010\Projects\ClassAverage\ClassAverage\ClassAverage\obj\x86\Debug\ClassAverage.xml
+C:\Users\Kyle\Documents\Visual Studio 2010\Projects\ClassAverage\ClassAverage\ClassAverage\obj\x86\Debug\ClassAverage.pdb

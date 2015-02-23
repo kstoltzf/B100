@@ -1,0 +1,22 @@
+c:\users\kyle\documents\visual studio 2010\Projects\RadioButtons\RadioButtons\bin\Debug\RadioButtons.exe
+c:\users\kyle\documents\visual studio 2010\Projects\RadioButtons\RadioButtons\bin\Debug\RadioButtons.pdb
+c:\users\kyle\documents\visual studio 2010\Projects\RadioButtons\RadioButtons\bin\Debug\RadioButtons.xml
+c:\users\kyle\documents\visual studio 2010\Projects\RadioButtons\RadioButtons\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\kyle\documents\visual studio 2010\Projects\RadioButtons\RadioButtons\obj\x86\Debug\RadioButtons.Form1.resources
+c:\users\kyle\documents\visual studio 2010\Projects\RadioButtons\RadioButtons\obj\x86\Debug\RadioButtons.Resources.resources
+c:\users\kyle\documents\visual studio 2010\Projects\RadioButtons\RadioButtons\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\kyle\documents\visual studio 2010\Projects\RadioButtons\RadioButtons\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\kyle\documents\visual studio 2010\Projects\RadioButtons\RadioButtons\obj\x86\Debug\RadioButtons.exe
+c:\users\kyle\documents\visual studio 2010\Projects\RadioButtons\RadioButtons\obj\x86\Debug\RadioButtons.xml
+c:\users\kyle\documents\visual studio 2010\Projects\RadioButtons\RadioButtons\obj\x86\Debug\RadioButtons.pdb
+H:\RadioButtons\RadioButtons\obj\x86\Debug\RadioButtons.exe
+H:\RadioButtons\RadioButtons\obj\x86\Debug\RadioButtons.xml
+H:\RadioButtons\RadioButtons\obj\x86\Debug\RadioButtons.pdb
+H:\RadioButtons\RadioButtons\bin\Debug\RadioButtons.exe
+H:\RadioButtons\RadioButtons\bin\Debug\RadioButtons.pdb
+H:\RadioButtons\RadioButtons\bin\Debug\RadioButtons.xml
+H:\RadioButtons\RadioButtons\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\RadioButtons\RadioButtons\obj\x86\Debug\RadioButtons.Form1.resources
+H:\RadioButtons\RadioButtons\obj\x86\Debug\RadioButtons.Resources.resources
+H:\RadioButtons\RadioButtons\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\RadioButtons\RadioButtons\obj\x86\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,10 @@
+C:\Users\kstoltzf\documents\visual studio 2010\Projects\ArrayMethods\ArrayMethods\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\kstoltzf\documents\visual studio 2010\Projects\ArrayMethods\ArrayMethods\obj\x86\Debug\ArrayMethods.Resources.resources
+C:\Users\kstoltzf\documents\visual studio 2010\Projects\ArrayMethods\ArrayMethods\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\kstoltzf\documents\visual studio 2010\Projects\ArrayMethods\ArrayMethods\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\kstoltzf\documents\visual studio 2010\Projects\ArrayMethods\ArrayMethods\bin\Debug\ArrayMethods.exe
+C:\Users\kstoltzf\documents\visual studio 2010\Projects\ArrayMethods\ArrayMethods\bin\Debug\ArrayMethods.pdb
+C:\Users\kstoltzf\documents\visual studio 2010\Projects\ArrayMethods\ArrayMethods\bin\Debug\ArrayMethods.xml
+C:\Users\kstoltzf\documents\visual studio 2010\Projects\ArrayMethods\ArrayMethods\obj\x86\Debug\ArrayMethods.exe
+C:\Users\kstoltzf\documents\visual studio 2010\Projects\ArrayMethods\ArrayMethods\obj\x86\Debug\ArrayMethods.xml
+C:\Users\kstoltzf\documents\visual studio 2010\Projects\ArrayMethods\ArrayMethods\obj\x86\Debug\ArrayMethods.pdb

@@ -1,0 +1,13 @@
+O:\B100\Lectures\ShapePrinter\ShapePrinter\obj\x86\Debug\ResolveAssemblyReference.cache
+O:\B100\Lectures\ShapePrinter\ShapePrinter\obj\x86\Debug\ConsoleApplication1.Resources.resources
+O:\B100\Lectures\ShapePrinter\ShapePrinter\obj\x86\Debug\GenerateResource.read.1.tlog
+O:\B100\Lectures\ShapePrinter\ShapePrinter\obj\x86\Debug\GenerateResource.write.1.tlog
+O:\B100\Lectures\ShapePrinter\ShapePrinter\bin\Debug\ShapePrinter.exe
+O:\B100\Lectures\ShapePrinter\ShapePrinter\bin\Debug\ShapePrinter.pdb
+O:\B100\Lectures\ShapePrinter\ShapePrinter\bin\Debug\ShapePrinter.xml
+O:\B100\Lectures\ShapePrinter\ShapePrinter\obj\x86\Debug\ShapePrinter.exe
+O:\B100\Lectures\ShapePrinter\ShapePrinter\obj\x86\Debug\ShapePrinter.xml
+O:\B100\Lectures\ShapePrinter\ShapePrinter\obj\x86\Debug\ShapePrinter.pdb
+C:\Users\Kyle\Downloads\ShapePrinter\ShapePrinter\ShapePrinter\obj\x86\Debug\ShapePrinter.exe
+C:\Users\Kyle\Downloads\ShapePrinter\ShapePrinter\ShapePrinter\obj\x86\Debug\ShapePrinter.xml
+C:\Users\Kyle\Downloads\ShapePrinter\ShapePrinter\ShapePrinter\obj\x86\Debug\ShapePrinter.pdb

@@ -1,0 +1,10 @@
+C:\Users\Kyle\Documents\Visual Studio 2010\Projects\Money Counter\Money Counter\bin\Debug\Money Counter.exe
+C:\Users\Kyle\Documents\Visual Studio 2010\Projects\Money Counter\Money Counter\bin\Debug\Money Counter.pdb
+C:\Users\Kyle\Documents\Visual Studio 2010\Projects\Money Counter\Money Counter\bin\Debug\Money Counter.xml
+C:\Users\Kyle\Documents\Visual Studio 2010\Projects\Money Counter\Money Counter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Kyle\Documents\Visual Studio 2010\Projects\Money Counter\Money Counter\obj\x86\Debug\Money_Counter.Resources.resources
+C:\Users\Kyle\Documents\Visual Studio 2010\Projects\Money Counter\Money Counter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Kyle\Documents\Visual Studio 2010\Projects\Money Counter\Money Counter\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Kyle\Documents\Visual Studio 2010\Projects\Money Counter\Money Counter\obj\x86\Debug\Money Counter.exe
+C:\Users\Kyle\Documents\Visual Studio 2010\Projects\Money Counter\Money Counter\obj\x86\Debug\Money Counter.xml
+C:\Users\Kyle\Documents\Visual Studio 2010\Projects\Money Counter\Money Counter\obj\x86\Debug\Money Counter.pdb

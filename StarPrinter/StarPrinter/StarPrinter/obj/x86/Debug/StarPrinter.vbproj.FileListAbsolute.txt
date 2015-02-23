@@ -1,0 +1,13 @@
+O:\liqzhang\B100\Lectures\StarPrinter\StarPrinter\obj\x86\Debug\ResolveAssemblyReference.cache
+O:\liqzhang\B100\Lectures\StarPrinter\StarPrinter\obj\x86\Debug\ConsoleApplication1.Resources.resources
+O:\liqzhang\B100\Lectures\StarPrinter\StarPrinter\obj\x86\Debug\GenerateResource.read.1.tlog
+O:\liqzhang\B100\Lectures\StarPrinter\StarPrinter\obj\x86\Debug\GenerateResource.write.1.tlog
+O:\liqzhang\B100\Lectures\StarPrinter\StarPrinter\bin\Debug\StarPrinter.exe
+O:\liqzhang\B100\Lectures\StarPrinter\StarPrinter\bin\Debug\StarPrinter.pdb
+O:\liqzhang\B100\Lectures\StarPrinter\StarPrinter\bin\Debug\StarPrinter.xml
+O:\liqzhang\B100\Lectures\StarPrinter\StarPrinter\obj\x86\Debug\StarPrinter.exe
+O:\liqzhang\B100\Lectures\StarPrinter\StarPrinter\obj\x86\Debug\StarPrinter.xml
+O:\liqzhang\B100\Lectures\StarPrinter\StarPrinter\obj\x86\Debug\StarPrinter.pdb
+C:\Users\Kyle\Downloads\StarPrinter\StarPrinter\StarPrinter\obj\x86\Debug\StarPrinter.exe
+C:\Users\Kyle\Downloads\StarPrinter\StarPrinter\StarPrinter\obj\x86\Debug\StarPrinter.xml
+C:\Users\Kyle\Downloads\StarPrinter\StarPrinter\StarPrinter\obj\x86\Debug\StarPrinter.pdb

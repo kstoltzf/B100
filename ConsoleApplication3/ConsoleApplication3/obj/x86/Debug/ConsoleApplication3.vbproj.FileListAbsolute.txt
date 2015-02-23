@@ -1,0 +1,10 @@
+c:\users\kyle\documents\visual studio 2010\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+c:\users\kyle\documents\visual studio 2010\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+c:\users\kyle\documents\visual studio 2010\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.xml
+c:\users\kyle\documents\visual studio 2010\Projects\ConsoleApplication3\ConsoleApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\kyle\documents\visual studio 2010\Projects\ConsoleApplication3\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.Resources.resources
+c:\users\kyle\documents\visual studio 2010\Projects\ConsoleApplication3\ConsoleApplication3\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\kyle\documents\visual studio 2010\Projects\ConsoleApplication3\ConsoleApplication3\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\kyle\documents\visual studio 2010\Projects\ConsoleApplication3\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.exe
+c:\users\kyle\documents\visual studio 2010\Projects\ConsoleApplication3\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.xml
+c:\users\kyle\documents\visual studio 2010\Projects\ConsoleApplication3\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.pdb

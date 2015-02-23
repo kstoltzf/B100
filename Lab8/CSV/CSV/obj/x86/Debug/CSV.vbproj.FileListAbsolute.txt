@@ -1,0 +1,11 @@
+H:\CSV\CSV\bin\Debug\CSV.exe
+H:\CSV\CSV\bin\Debug\CSV.pdb
+H:\CSV\CSV\bin\Debug\CSV.xml
+H:\CSV\CSV\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\CSV\CSV\obj\x86\Debug\WindowsApplication1.Form1.resources
+H:\CSV\CSV\obj\x86\Debug\WindowsApplication1.Resources.resources
+H:\CSV\CSV\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\CSV\CSV\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\CSV\CSV\obj\x86\Debug\CSV.exe
+H:\CSV\CSV\obj\x86\Debug\CSV.xml
+H:\CSV\CSV\obj\x86\Debug\CSV.pdb

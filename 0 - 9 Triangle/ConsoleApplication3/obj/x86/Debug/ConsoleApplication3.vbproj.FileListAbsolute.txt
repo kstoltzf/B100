@@ -1,0 +1,13 @@
+c:\users\kyle\documents\visual studio 2010\Projects\ConsoleApplication3\ConsoleApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\kyle\documents\visual studio 2010\Projects\ConsoleApplication3\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.Resources.resources
+c:\users\kyle\documents\visual studio 2010\Projects\ConsoleApplication3\ConsoleApplication3\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\kyle\documents\visual studio 2010\Projects\ConsoleApplication3\ConsoleApplication3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Kyle\Documents\Visual Studio 2010\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\9 to 0 triangle.exe
+C:\Users\Kyle\Documents\Visual Studio 2010\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\9 to 0 triangle.pdb
+C:\Users\Kyle\Documents\Visual Studio 2010\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\9 to 0 triangle.xml
+C:\Users\Kyle\Documents\Visual Studio 2010\Projects\ConsoleApplication3\ConsoleApplication3\obj\x86\Debug\9 to 0 triangle.exe
+C:\Users\Kyle\Documents\Visual Studio 2010\Projects\ConsoleApplication3\ConsoleApplication3\obj\x86\Debug\9 to 0 triangle.xml
+C:\Users\Kyle\Documents\Visual Studio 2010\Projects\ConsoleApplication3\ConsoleApplication3\obj\x86\Debug\9 to 0 triangle.pdb
+C:\Users\Kyle\Downloads\HW 8\0 - 9 Triangle\ConsoleApplication3\obj\x86\Debug\9 to 0 triangle.exe
+C:\Users\Kyle\Downloads\HW 8\0 - 9 Triangle\ConsoleApplication3\obj\x86\Debug\9 to 0 triangle.xml
+C:\Users\Kyle\Downloads\HW 8\0 - 9 Triangle\ConsoleApplication3\obj\x86\Debug\9 to 0 triangle.pdb

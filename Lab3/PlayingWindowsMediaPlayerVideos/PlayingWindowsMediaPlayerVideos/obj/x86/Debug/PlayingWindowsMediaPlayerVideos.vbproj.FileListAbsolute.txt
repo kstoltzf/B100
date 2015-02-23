@@ -1,0 +1,27 @@
+c:\users\kyle\documents\visual studio 2010\Projects\PlayingWindowsMediaPlayerVideos\PlayingWindowsMediaPlayerVideos\bin\Debug\PlayingWindowsMediaPlayerVideos.exe
+c:\users\kyle\documents\visual studio 2010\Projects\PlayingWindowsMediaPlayerVideos\PlayingWindowsMediaPlayerVideos\bin\Debug\PlayingWindowsMediaPlayerVideos.pdb
+c:\users\kyle\documents\visual studio 2010\Projects\PlayingWindowsMediaPlayerVideos\PlayingWindowsMediaPlayerVideos\bin\Debug\PlayingWindowsMediaPlayerVideos.xml
+c:\users\kyle\documents\visual studio 2010\Projects\PlayingWindowsMediaPlayerVideos\PlayingWindowsMediaPlayerVideos\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\kyle\documents\visual studio 2010\Projects\PlayingWindowsMediaPlayerVideos\PlayingWindowsMediaPlayerVideos\obj\x86\Debug\PlayingWindowsMediaPlayerVideos.Form1.resources
+c:\users\kyle\documents\visual studio 2010\Projects\PlayingWindowsMediaPlayerVideos\PlayingWindowsMediaPlayerVideos\obj\x86\Debug\PlayingWindowsMediaPlayerVideos.Resources.resources
+c:\users\kyle\documents\visual studio 2010\Projects\PlayingWindowsMediaPlayerVideos\PlayingWindowsMediaPlayerVideos\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\kyle\documents\visual studio 2010\Projects\PlayingWindowsMediaPlayerVideos\PlayingWindowsMediaPlayerVideos\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\kyle\documents\visual studio 2010\Projects\PlayingWindowsMediaPlayerVideos\PlayingWindowsMediaPlayerVideos\obj\x86\Debug\PlayingWindowsMediaPlayerVideos.exe
+c:\users\kyle\documents\visual studio 2010\Projects\PlayingWindowsMediaPlayerVideos\PlayingWindowsMediaPlayerVideos\obj\x86\Debug\PlayingWindowsMediaPlayerVideos.xml
+c:\users\kyle\documents\visual studio 2010\Projects\PlayingWindowsMediaPlayerVideos\PlayingWindowsMediaPlayerVideos\obj\x86\Debug\PlayingWindowsMediaPlayerVideos.pdb
+O:\B100\Lab3\PlayingWindowsMediaPlayerVideos\PlayingWindowsMediaPlayerVideos\obj\x86\Debug\PlayingWindowsMediaPlayerVideos.exe
+O:\B100\Lab3\PlayingWindowsMediaPlayerVideos\PlayingWindowsMediaPlayerVideos\obj\x86\Debug\PlayingWindowsMediaPlayerVideos.xml
+O:\B100\Lab3\PlayingWindowsMediaPlayerVideos\PlayingWindowsMediaPlayerVideos\obj\x86\Debug\PlayingWindowsMediaPlayerVideos.pdb
+O:\B100\Lab3\PlayingWindowsMediaPlayerVideos\PlayingWindowsMediaPlayerVideos\obj\x86\Debug\ResolveAssemblyReference.cache
+O:\B100\Lab3\PlayingWindowsMediaPlayerVideos\PlayingWindowsMediaPlayerVideos\obj\x86\Debug\PlayingWindowsMediaPlayerVideos.Form1.resources
+O:\B100\Lab3\PlayingWindowsMediaPlayerVideos\PlayingWindowsMediaPlayerVideos\obj\x86\Debug\PlayingWindowsMediaPlayerVideos.Resources.resources
+O:\B100\Lab3\PlayingWindowsMediaPlayerVideos\PlayingWindowsMediaPlayerVideos\obj\x86\Debug\GenerateResource.read.1.tlog
+O:\B100\Lab3\PlayingWindowsMediaPlayerVideos\PlayingWindowsMediaPlayerVideos\obj\x86\Debug\GenerateResource.write.1.tlog
+O:\B100\Lab3\PlayingWindowsMediaPlayerVideos\PlayingWindowsMediaPlayerVideos\obj\x86\Debug\Interop.WMPLib.dll
+O:\B100\Lab3\PlayingWindowsMediaPlayerVideos\PlayingWindowsMediaPlayerVideos\obj\x86\Debug\AxInterop.WMPLib.dll
+O:\B100\Lab3\PlayingWindowsMediaPlayerVideos\PlayingWindowsMediaPlayerVideos\obj\x86\Debug\PlayingWindowsMediaPlayerVideos.vbproj.ResolveComReference.cache
+O:\B100\Lab3\PlayingWindowsMediaPlayerVideos\PlayingWindowsMediaPlayerVideos\bin\Debug\PlayingWindowsMediaPlayerVideos.exe
+O:\B100\Lab3\PlayingWindowsMediaPlayerVideos\PlayingWindowsMediaPlayerVideos\bin\Debug\PlayingWindowsMediaPlayerVideos.pdb
+O:\B100\Lab3\PlayingWindowsMediaPlayerVideos\PlayingWindowsMediaPlayerVideos\bin\Debug\PlayingWindowsMediaPlayerVideos.xml
+O:\B100\Lab3\PlayingWindowsMediaPlayerVideos\PlayingWindowsMediaPlayerVideos\bin\Debug\Interop.WMPLib.dll
+O:\B100\Lab3\PlayingWindowsMediaPlayerVideos\PlayingWindowsMediaPlayerVideos\bin\Debug\AxInterop.WMPLib.dll

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "GradeArray", "GradeArray\GradeArray.vbproj", "{E17A9072-4E5C-4646-B219-27528DE6D0E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E17A9072-4E5C-4646-B219-27528DE6D0E1}.Debug|x86.ActiveCfg = Debug|x86
+		{E17A9072-4E5C-4646-B219-27528DE6D0E1}.Debug|x86.Build.0 = Debug|x86
+		{E17A9072-4E5C-4646-B219-27528DE6D0E1}.Release|x86.ActiveCfg = Release|x86
+		{E17A9072-4E5C-4646-B219-27528DE6D0E1}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

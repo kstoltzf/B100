@@ -1,0 +1,10 @@
+c:\users\kyle\documents\visual studio 2010\Projects\Leap Year\Leap Year\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\kyle\documents\visual studio 2010\Projects\Leap Year\Leap Year\obj\x86\Debug\Leap_Year.Resources.resources
+c:\users\kyle\documents\visual studio 2010\Projects\Leap Year\Leap Year\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\kyle\documents\visual studio 2010\Projects\Leap Year\Leap Year\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\kyle\documents\visual studio 2010\Projects\Leap Year\Leap Year\bin\Debug\Leap Year.exe
+c:\users\kyle\documents\visual studio 2010\Projects\Leap Year\Leap Year\bin\Debug\Leap Year.pdb
+c:\users\kyle\documents\visual studio 2010\Projects\Leap Year\Leap Year\bin\Debug\Leap Year.xml
+c:\users\kyle\documents\visual studio 2010\Projects\Leap Year\Leap Year\obj\x86\Debug\Leap Year.exe
+c:\users\kyle\documents\visual studio 2010\Projects\Leap Year\Leap Year\obj\x86\Debug\Leap Year.xml
+c:\users\kyle\documents\visual studio 2010\Projects\Leap Year\Leap Year\obj\x86\Debug\Leap Year.pdb

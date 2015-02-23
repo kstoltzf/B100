@@ -1,0 +1,16 @@
+O:\liqzhang\B100\Labs\GradeArray\GradeArray\obj\x86\Debug\ResolveAssemblyReference.cache
+O:\liqzhang\B100\Labs\GradeArray\GradeArray\obj\x86\Debug\ConsoleApplication1.Resources.resources
+O:\liqzhang\B100\Labs\GradeArray\GradeArray\obj\x86\Debug\GenerateResource.read.1.tlog
+O:\liqzhang\B100\Labs\GradeArray\GradeArray\obj\x86\Debug\GenerateResource.write.1.tlog
+O:\liqzhang\B100\Labs\GradeArray\GradeArray\bin\Debug\GradeArray.exe
+O:\liqzhang\B100\Labs\GradeArray\GradeArray\bin\Debug\GradeArray.pdb
+O:\liqzhang\B100\Labs\GradeArray\GradeArray\bin\Debug\GradeArray.xml
+O:\liqzhang\B100\Labs\GradeArray\GradeArray\obj\x86\Debug\GradeArray.exe
+O:\liqzhang\B100\Labs\GradeArray\GradeArray\obj\x86\Debug\GradeArray.xml
+O:\liqzhang\B100\Labs\GradeArray\GradeArray\obj\x86\Debug\GradeArray.pdb
+O:\B100\Labs\GradeArray\GradeArray\obj\x86\Debug\GradeArray.exe
+O:\B100\Labs\GradeArray\GradeArray\obj\x86\Debug\GradeArray.xml
+O:\B100\Labs\GradeArray\GradeArray\obj\x86\Debug\GradeArray.pdb
+C:\Users\Kyle\Downloads\GradeArray\GradeArray\GradeArray\obj\x86\Debug\GradeArray.exe
+C:\Users\Kyle\Downloads\GradeArray\GradeArray\GradeArray\obj\x86\Debug\GradeArray.xml
+C:\Users\Kyle\Downloads\GradeArray\GradeArray\GradeArray\obj\x86\Debug\GradeArray.pdb

@@ -1,0 +1,11 @@
+c:\users\kyle\documents\visual studio 2010\Projects\ComboBox\ComboBox\bin\Debug\ComboBox.exe
+c:\users\kyle\documents\visual studio 2010\Projects\ComboBox\ComboBox\bin\Debug\ComboBox.pdb
+c:\users\kyle\documents\visual studio 2010\Projects\ComboBox\ComboBox\bin\Debug\ComboBox.xml
+c:\users\kyle\documents\visual studio 2010\Projects\ComboBox\ComboBox\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\kyle\documents\visual studio 2010\Projects\ComboBox\ComboBox\obj\x86\Debug\ComboBox.Form1.resources
+c:\users\kyle\documents\visual studio 2010\Projects\ComboBox\ComboBox\obj\x86\Debug\ComboBox.Resources.resources
+c:\users\kyle\documents\visual studio 2010\Projects\ComboBox\ComboBox\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\kyle\documents\visual studio 2010\Projects\ComboBox\ComboBox\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\kyle\documents\visual studio 2010\Projects\ComboBox\ComboBox\obj\x86\Debug\ComboBox.exe
+c:\users\kyle\documents\visual studio 2010\Projects\ComboBox\ComboBox\obj\x86\Debug\ComboBox.xml
+c:\users\kyle\documents\visual studio 2010\Projects\ComboBox\ComboBox\obj\x86\Debug\ComboBox.pdb

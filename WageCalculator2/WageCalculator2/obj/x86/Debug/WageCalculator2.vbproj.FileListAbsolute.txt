@@ -1,0 +1,10 @@
+c:\users\kyle\documents\visual studio 2010\Projects\WageCalculator2\WageCalculator2\bin\Debug\WageCalculator2.exe
+c:\users\kyle\documents\visual studio 2010\Projects\WageCalculator2\WageCalculator2\bin\Debug\WageCalculator2.pdb
+c:\users\kyle\documents\visual studio 2010\Projects\WageCalculator2\WageCalculator2\bin\Debug\WageCalculator2.xml
+c:\users\kyle\documents\visual studio 2010\Projects\WageCalculator2\WageCalculator2\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\kyle\documents\visual studio 2010\Projects\WageCalculator2\WageCalculator2\obj\x86\Debug\WageCalculator2.Resources.resources
+c:\users\kyle\documents\visual studio 2010\Projects\WageCalculator2\WageCalculator2\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\kyle\documents\visual studio 2010\Projects\WageCalculator2\WageCalculator2\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\kyle\documents\visual studio 2010\Projects\WageCalculator2\WageCalculator2\obj\x86\Debug\WageCalculator2.exe
+c:\users\kyle\documents\visual studio 2010\Projects\WageCalculator2\WageCalculator2\obj\x86\Debug\WageCalculator2.xml
+c:\users\kyle\documents\visual studio 2010\Projects\WageCalculator2\WageCalculator2\obj\x86\Debug\WageCalculator2.pdb

@@ -1,0 +1,11 @@
+c:\users\kyle\documents\visual studio 2010\Projects\Money Counter GUI\Money Counter GUI\bin\Debug\Money Counter GUI.exe
+c:\users\kyle\documents\visual studio 2010\Projects\Money Counter GUI\Money Counter GUI\bin\Debug\Money Counter GUI.pdb
+c:\users\kyle\documents\visual studio 2010\Projects\Money Counter GUI\Money Counter GUI\bin\Debug\Money Counter GUI.xml
+c:\users\kyle\documents\visual studio 2010\Projects\Money Counter GUI\Money Counter GUI\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\kyle\documents\visual studio 2010\Projects\Money Counter GUI\Money Counter GUI\obj\x86\Debug\Money_Counter_GUI.Form1.resources
+c:\users\kyle\documents\visual studio 2010\Projects\Money Counter GUI\Money Counter GUI\obj\x86\Debug\Money_Counter_GUI.Resources.resources
+c:\users\kyle\documents\visual studio 2010\Projects\Money Counter GUI\Money Counter GUI\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\kyle\documents\visual studio 2010\Projects\Money Counter GUI\Money Counter GUI\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\kyle\documents\visual studio 2010\Projects\Money Counter GUI\Money Counter GUI\obj\x86\Debug\Money Counter GUI.exe
+c:\users\kyle\documents\visual studio 2010\Projects\Money Counter GUI\Money Counter GUI\obj\x86\Debug\Money Counter GUI.xml
+c:\users\kyle\documents\visual studio 2010\Projects\Money Counter GUI\Money Counter GUI\obj\x86\Debug\Money Counter GUI.pdb
